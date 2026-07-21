@@ -3,6 +3,8 @@ layout: page
 title: 바이브 코딩 스터디
 ---
 
+![Game Vibe Coders — AI와 함께 만드는 우리만의 바이브]({{ site.baseurl }}/images/logo-light.png)
+
 게임 개발 실무에서 AI 도구를 어떻게 활용할지 함께 이야기하는 오프라인 스터디입니다.
 강의보다 경험 공유, 시행착오, 실무 적용 중심의 작은 모임입니다.
 
