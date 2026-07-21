@@ -3,12 +3,15 @@ title: 바이브 코딩 스터디
 description: >
   게임 개발 실무에서 AI 도구를 어떻게 활용할지 함께 이야기하는 오프라인 스터디입니다.
   강의보다 경험 공유, 시행착오, 실무 적용 중심의 작은 모임입니다.
-baseurl: ""
-url: ""
+baseurl: "/vibecoders"
+url: "https://emptypizza.github.io"
+email: plusalpha.top@gmail.com
 github_username: emtpypizzaa
 
 # Build settings
 markdown: kramdown
+# KST로 작성한 당일 글이 UTC 빌드에서 미래 글로 제외되지 않도록 함
+future: true
 
 exclude:
   [

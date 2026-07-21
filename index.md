@@ -8,6 +8,11 @@ title: 바이브 코딩 스터디
 
 *같이 부딪혀 봅시다.*
 
+## 공지
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url | prepend: site.baseurl }}) — {{ post.date | date: "%Y-%m-%d" }}
+{% endfor %}
+
 # 진행 방식
 
 - 월 1~2회 오프라인 (강남권) · 모각코

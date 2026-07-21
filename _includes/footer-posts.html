@@ -1,7 +1,7 @@
 <div class="posts-footer">
     <hr/>
     {% for post in site.posts %}
-    <a class="post-link" href="{{ post.url }}" title="{{ post.date | date_to_string }}">
+    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="{{ post.date | date_to_string }}">
       {{ post.title }}
     </a>
   {% endfor %}
