@@ -3,8 +3,23 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  {% capture meta_title %}{% if page.layout == "home" %}{{ site.title }} · 매주 토요일 인디게임 오픈 스튜디오{% elsif page.title %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }}{% endif %}{% endcapture %}
+  {% capture meta_description %}{% if page.description %}{{ page.description }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
+  {% assign meta_image = page.image | default: site.social_image %}
+
+  <title>{{ meta_title | strip | escape }}</title>
+  <meta name="description" content="{{ meta_description | strip | escape }}">
+  <meta name="theme-color" content="#080b1d">
+  <meta name="color-scheme" content="dark">
+
+  <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+  <meta property="og:locale" content="ko_KR">
+  <meta property="og:site_name" content="{{ site.title | escape }}">
+  <meta property="og:title" content="{{ meta_title | strip | escape }}">
+  <meta property="og:description" content="{{ meta_description | strip | escape }}">
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="og:image" content="{{ meta_image | prepend: site.baseurl | prepend: site.url }}">
+  <meta name="twitter:card" content="summary_large_image">
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">

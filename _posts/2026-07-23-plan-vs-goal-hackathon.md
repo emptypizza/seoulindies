@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "바이브 해커톤 — plan vs goal (8/8)"
+event_status: ended
 ---
 
 ![Game Vibe Coders — 코드보다 흐름, 결과보다 실험]({{ site.baseurl }}/images/banner-dark.png){: .hero-image .hero-image--wide }
@@ -21,7 +22,7 @@ title: "바이브 해커톤 — plan vs goal (8/8)"
 
 ---
 
-# 요약
+## 요약
 
 | 항목 | 내용 |
 | ---- | ---- |
@@ -97,7 +98,7 @@ title: "바이브 해커톤 — plan vs goal (8/8)"
 
 ---
 
-# 진행
+## 진행
 
 | 시간 | 내용 |
 | ---- | ---- |
