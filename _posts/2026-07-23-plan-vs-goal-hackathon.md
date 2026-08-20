@@ -3,7 +3,7 @@ layout: post
 title: "바이브 해커톤 — plan vs goal (8/8)"
 ---
 
-![Game Vibe Coders — 코드보다 흐름, 결과보다 실험]({{ site.baseurl }}/images/banner-dark.png)
+![Game Vibe Coders — 코드보다 흐름, 결과보다 실험]({{ site.baseurl }}/images/banner-dark.png){: .hero-image .hero-image--wide }
 
 > **같은 시간, 같은 손, 다른 시작점.**
 > `/goal` 한 방 vs `/plan` 잡고 가기 —

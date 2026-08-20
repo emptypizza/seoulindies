@@ -230,6 +230,22 @@ hr {
 .post-content {
     margin-bottom: $spacing-unit;
 
+    .hero-image {
+        display: block;
+        width: 100%;
+        height: auto;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .hero-image--wide {
+        max-width: 640px;
+    }
+
+    .hero-image--feature {
+        max-width: 480px;
+    }
+
     h1 {
         font-size: 27px;
 
@@ -296,4 +312,3 @@ table {
         margin-top: 0; }
       table tr th :last-child, table tr td :last-child {
         margin-bottom: 0; }
-  
