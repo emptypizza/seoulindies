@@ -21,8 +21,9 @@ description: 매주 토요일 오후 2시, 서울에서 각자의 인디게임�
 
       <div class="hero-actions">
         <a class="button button--primary" href="{{ site.join_url }}" target="_blank" rel="noopener noreferrer">
-          이번 토요일 참여하기 <span aria-hidden="true">↗</span>
+          Discord 참여하기 <span aria-hidden="true">↗</span>
         </a>
+        <a class="button button--kakao" href="{{ site.kakao_url }}" target="_blank" rel="noopener noreferrer">카카오톡 오픈채팅 <span aria-hidden="true">↗</span></a>
         <a class="button button--ghost" href="#meetup">모임 방식 보기 <span aria-hidden="true">↓</span></a>
       </div>
 
@@ -132,7 +133,10 @@ description: 매주 토요일 오후 2시, 서울에서 각자의 인디게임�
 
     <div class="meetup-note">
       <p><strong>처음이라면?</strong> 작업 중인 프로젝트가 없어도 괜찮습니다. 작은 실험이나 배우고 싶은 도구를 가져오세요.</p>
-      <a href="{{ site.join_url }}" target="_blank" rel="noopener noreferrer">회차별 장소·참가 안내 확인 ↗</a>
+      <div class="meetup-note__links">
+        <a href="{{ site.join_url }}" target="_blank" rel="noopener noreferrer">Discord ↗</a>
+        <a class="kakao-link" href="{{ site.kakao_url }}" target="_blank" rel="noopener noreferrer">카카오톡 오픈채팅 ↗</a>
+      </div>
     </div>
   </div>
 </section>
@@ -275,8 +279,13 @@ description: 매주 토요일 오후 2시, 서울에서 각자의 인디게임�
     <p class="eyebrow eyebrow--glow">NEXT SATURDAY · 14:00</p>
     <h2 id="cta-title">만들던 게임을<br><em>그대로 들고 오세요.</em></h2>
     <p>완성품보다 다음 버전을 기대합니다.<br>서울에서, 이번 토요일에 만나요.</p>
-    <a class="button button--primary button--large" href="{{ site.join_url }}" target="_blank" rel="noopener noreferrer">
-      서울인디게임즈 참여하기 <span aria-hidden="true">↗</span>
-    </a>
+    <div class="final-cta__actions">
+      <a class="button button--primary button--large" href="{{ site.join_url }}" target="_blank" rel="noopener noreferrer">
+        Discord 참여하기 <span aria-hidden="true">↗</span>
+      </a>
+      <a class="button button--kakao button--large" href="{{ site.kakao_url }}" target="_blank" rel="noopener noreferrer">
+        카카오톡 오픈채팅 <span aria-hidden="true">↗</span>
+      </a>
+    </div>
   </div>
 </section>

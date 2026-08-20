@@ -15,9 +15,14 @@
       <a href="{{ site.baseurl }}/#news">지난 기록</a>
     </nav>
 
-    <a class="header-cta" href="{{ site.join_url }}" target="_blank" rel="noopener noreferrer">
-      참여하기 <span aria-hidden="true">↗</span>
-    </a>
+    <div class="header-actions" aria-label="커뮤니티 참여 채널">
+      <a class="header-cta" href="{{ site.join_url }}" target="_blank" rel="noopener noreferrer">
+        Discord <span aria-hidden="true">↗</span>
+      </a>
+      <a class="header-cta header-cta--kakao" href="{{ site.kakao_url }}" target="_blank" rel="noopener noreferrer">
+        카카오톡 <span aria-hidden="true">↗</span>
+      </a>
+    </div>
 
     <details class="mobile-nav">
       <summary aria-label="메뉴 열기"><span></span><span></span><span></span></summary>
@@ -26,7 +31,8 @@
         <a href="{{ site.baseurl }}/#meetup">토요일 루프</a>
         <a href="{{ site.baseurl }}/#projects">메이커 프로젝트</a>
         <a href="{{ site.baseurl }}/#news">지난 기록</a>
-        <a href="{{ site.join_url }}" target="_blank" rel="noopener noreferrer">이번 토요일 참여하기 ↗</a>
+        <a class="mobile-nav__join" href="{{ site.join_url }}" target="_blank" rel="noopener noreferrer">Discord 참여하기 ↗</a>
+        <a class="mobile-nav__join mobile-nav__join--kakao" href="{{ site.kakao_url }}" target="_blank" rel="noopener noreferrer">카카오톡 오픈채팅 ↗</a>
       </nav>
     </details>
   </div>
