@@ -1,21 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html lang="ko">
 
   {% include head.html %}
 
   <body>
+    <a class="skip-link" href="#main-content">본문으로 건너뛰기</a>
 
     {% include header.html %}
 
-    {% include sidebar.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-
-      {% include footer-posts.html %}
-    </div>
+    <main class="site-main{% if page.layout == 'home' %} site-main--home{% endif %}" id="main-content">
+      {{ content }}
+    </main>
 
     {% include footer.html %}
   </body>
