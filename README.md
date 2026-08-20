@@ -4,7 +4,7 @@
 서로 플레이하고, 다음 빌드까지 연결하는 정기 오픈 스튜디오 사이트입니다.
 
 - 공개 사이트: <https://emptypizza.github.io/seoulindies/>
-- 참여 안내: <https://somoim.co.kr/17842e1e-0563-4587-9d45-aa12ce04d9df1>
+- 참여 안내: <https://discord.gg/j4ZsncEQ5>
 - 문의: <plusalpha.top@gmail.com>
 
 ## 로컬 빌드

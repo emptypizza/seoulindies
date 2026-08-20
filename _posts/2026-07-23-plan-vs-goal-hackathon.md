@@ -32,7 +32,7 @@ event_status: ended
 | 시간 | 14:00 ~ 19:00 (개발 ~18:30 / 공유·투표 ~19:00) |
 | 주제 | **plan vs goal — 어떻게 시작하면 바이브가 되는가** |
 | 권장 | AI agent가 껴 있는 IDE·에이전트 툴 적극 사용 |
-| 신청 | [plusalpha.top@gmail.com](mailto:plusalpha.top@gmail.com) · [소모임](https://somoim.co.kr/17842e1e-0563-4587-9d45-aa12ce04d9df1) |
+| 신청 | [plusalpha.top@gmail.com](mailto:plusalpha.top@gmail.com) · [Discord](https://discord.gg/j4ZsncEQ5) |
 
 ---
 
@@ -176,4 +176,4 @@ AI 들고 와서 부딪혀 보세요.
 ## Contact
 
 - 문의/신청: [plusalpha.top@gmail.com](mailto:plusalpha.top@gmail.com)
-- 소모임: [가입 · 일정 안내](https://somoim.co.kr/17842e1e-0563-4587-9d45-aa12ce04d9df1)
+- Discord: [참여 · 일정 안내](https://discord.gg/j4ZsncEQ5)

@@ -22,7 +22,7 @@ image: "/images/seoul-indies-hero.jpg"
 | 장소 | 서울 · 상세 장소는 신청자에게 회차별 안내 |
 | 방식 | 오늘 목표 체크인 → 집중 제작 → 빌드 플레이·피드백 → 다음 목표 |
 | 대상 | 인디게임 개발자 · 사이드프로젝트 팀 · 학생/지망생 · 아트/사운드/기획 |
-| 참여 | [소모임에서 회차별 안내 확인](https://somoim.co.kr/17842e1e-0563-4587-9d45-aa12ce04d9df1) |
+| 참여 | [Discord에서 회차별 안내 확인](https://discord.gg/j4ZsncEQ5) |
 
 ---
 
@@ -64,7 +64,7 @@ image: "/images/seoul-indies-hero.jpg"
 
 ## 참여 방법
 
-- 회차별 장소와 참가 안내: [소모임](https://somoim.co.kr/17842e1e-0563-4587-9d45-aa12ce04d9df1)
+- 회차별 장소와 참가 안내: [Discord](https://discord.gg/j4ZsncEQ5)
 - 문의: [plusalpha.top@gmail.com](mailto:plusalpha.top@gmail.com)
 
 완성된 게임보다 **다음 버전이 있는 게임**을 기다립니다.
