@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 서울인디게임즈
-description: 매주 토요일 오후 3시, 서울에서 각자의 인디게임을 만들고 플레이테스트하는 정기 오픈 스튜디오.
+description: 매주 토요일 오후 3시, 서울 강남역에서 각자의 인디게임을 만들고 플레이테스트하는 정기 오픈 스튜디오.
 ---
 
 <section class="home-hero" aria-labelledby="hero-title">
@@ -15,9 +15,9 @@ description: 매주 토요일 오후 3시, 서울에서 각자의 인디게임�
 
   <div class="home-container home-hero__inner">
     <div class="hero-copy">
-      <p class="eyebrow eyebrow--glow"><span></span> SEOUL · SATURDAY BUILD CLUB</p>
+      <p class="eyebrow eyebrow--glow"><span></span> GANGNAM STATION · SATURDAY BUILD CLUB</p>
       <h1 id="hero-title">혼자 만들던 게임,<br><em>토요일엔 함께.</em></h1>
-      <p class="hero-lead">서울의 인디게임 개발자들이 각자 만들고, 서로 플레이하고, 다음 빌드까지 연결하는 정기 오픈 스튜디오입니다.</p>
+      <p class="hero-lead">서울 강남역에서 인디게임 개발자들이 각자 만들고, 서로 플레이하고, 다음 빌드까지 연결하는 정기 오픈 스튜디오입니다.</p>
 
       <div class="hero-actions">
         <a class="button button--primary" href="{{ site.join_url }}" target="_blank" rel="noopener noreferrer">
@@ -48,7 +48,7 @@ description: 매주 토요일 오후 3시, 서울에서 각자의 인디게임�
 <div class="signal-strip" aria-label="서울인디게임즈 핵심 활동">
   <div>
     <span>EVERY SATURDAY</span><i>✦</i>
-    <span>15:00 SEOUL</span><i>✦</i>
+    <span>15:00 GANGNAM STATION</span><i>✦</i>
     <span>MAKE</span><i>✦</i>
     <span>PLAYTEST</span><i>✦</i>
     <span>SHIP THE NEXT BUILD</span>
@@ -274,7 +274,7 @@ description: 매주 토요일 오후 3시, 서울에서 각자의 인디게임�
   <div class="home-container">
     <p class="eyebrow eyebrow--glow">NEXT SATURDAY · 15:00</p>
     <h2 id="cta-title">만들던 게임을<br><em>그대로 들고 오세요.</em></h2>
-    <p>완성품보다 다음 버전을 기대합니다.<br>서울에서, 이번 토요일에 만나요.</p>
+    <p>완성품보다 다음 버전을 기대합니다.<br>서울 강남역에서, 이번 토요일에 만나요.</p>
     <div class="final-cta__actions">
       <a class="button button--primary button--large" href="{{ site.join_url }}" target="_blank" rel="noopener noreferrer">
         Discord 참여하기 <span aria-hidden="true">↗</span>

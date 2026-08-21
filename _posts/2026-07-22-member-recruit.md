@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "서울인디게임즈 — 매주 토요일 제작 모임 참여 안내"
-description: "매주 토요일 오후 3시, 서울에서 각자의 인디게임을 만들고 플레이테스트하는 오픈 스튜디오 참여 안내."
+description: "매주 토요일 오후 3시, 서울 강남역에서 각자의 인디게임을 만들고 플레이테스트하는 오픈 스튜디오 참여 안내."
 image: "/images/seoul-indies-hero.jpg"
 ---
 
-![서울에서 각자의 게임을 만들고 서로 플레이하는 인디게임 개발자 모임]({{ site.baseurl }}/images/seoul-indies-hero.webp){: .hero-image .hero-image--wide }
+![서울 강남역에서 각자의 게임을 만들고 서로 플레이하는 인디게임 개발자 모임]({{ site.baseurl }}/images/seoul-indies-hero.webp){: .hero-image .hero-image--wide }
 
 > **혼자 만들던 게임, 토요일엔 함께.**
 > 매주 실제 빌드를 진전시키고 서로 플레이하는
-> 서울의 인디게임 개발자 오픈 스튜디오입니다.
+> 서울 강남역의 인디게임 개발자 오픈 스튜디오입니다.
 
 ---
 
@@ -19,7 +19,7 @@ image: "/images/seoul-indies-hero.jpg"
 | ---- | ---- |
 | 모임 | 서울인디게임즈 |
 | 일정 | **매주 토요일 오후 3시** |
-| 장소 | 서울 · 상세 장소는 신청자에게 회차별 안내 |
+| 장소 | 서울 강남역 · 상세 장소는 신청자에게 회차별 안내 |
 | 방식 | 오늘 목표 체크인 → 집중 제작 → 빌드 플레이·피드백 → 다음 목표 |
 | 대상 | 인디게임 개발자 · 사이드프로젝트 팀 · 학생/지망생 · 아트/사운드/기획 |
 | 참여 | [Discord](https://discord.gg/j4ZsncEQ5) · [카카오톡 오픈채팅](https://open.kakao.com/o/pIxN9iFi) |
