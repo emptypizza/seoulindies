@@ -152,43 +152,39 @@ description: 매주 토요일 오후 2시, 서울에서 각자의 인디게임�
     </div>
 
     <article class="project-feature">
-      <div class="project-feature__visual project-feature__visual--paper">
-        <span class="project-state">PLAYABLE DIRECTION · IN DEVELOPMENT</span>
-        <div class="paper-stage" aria-hidden="true">
-          <span class="paper-sun"></span>
-          <span class="paper-castle"></span>
-          <span class="paper-hero">♞</span>
-          <span class="paper-unit paper-unit--one">▲</span>
-          <span class="paper-unit paper-unit--two">●</span>
-          <span class="paper-enemy">◆</span>
-          <span class="paper-ground"></span>
-        </div>
-        <p>DREAM ENERGY<br>SUMMON DEFENSE</p>
+      <div class="project-feature__visual project-feature__visual--magrous">
+        <picture class="magrous-art">
+          <source srcset="{{ site.baseurl }}/images/magrous-story.webp" type="image/webp">
+          <img src="{{ site.baseurl }}/images/magrous-story.jpg" alt="복셀 숲길에서 도토가 성배마차와 함께 빛나는 포털을 향하는 매그러스 스토리 키아트" width="768" height="1376" loading="lazy">
+        </picture>
+        <span class="project-state">PLAYABLE BUILD · 10 STAGES IN DEVELOPMENT</span>
+        <p>GRAIL WAGON ESCORT<br>PORTRAIT ACTION</p>
       </div>
 
       <div class="project-feature__copy">
         <p class="project-kicker">FEATURED MAKER PROJECT</p>
-        <h3>PaperHeroes</h3>
-        <p class="project-tagline">꿈에너지로 종이 용병을 소환하고, 플레이어가 전선 위 영웅을 직접 조작해 적의 공세를 돌파하는 <strong>영웅 주도 소환 디펜스</strong> 게임입니다.</p>
-        <p>방과 후 교실과 꿈속 전장을 배경으로, 악몽의 침공에 맞서는 용사 아이들의 상상 전투를 그립니다. 영웅의 위치와 스킬 타이밍, 용병 소환 순서, 속성 상성, 전선 유지 판단이 맞물려 매 순간 선택을 요구합니다.</p>
-        <ul class="project-tags" aria-label="PaperHeroes 핵심 시스템">
-          <li>꿈에너지 소환</li>
-          <li>영웅 스킬·오라</li>
-          <li>역할 조합</li>
-          <li>속성 상성</li>
-          <li>웨이브·보스전</li>
+        <h3>매그러스 스토리</h3>
+        <p class="project-tagline">자동 전진하는 성배마차를 주인공 도토와 용병들이 호위하는 <strong>모바일 세로형 액션</strong> 게임입니다.</p>
+        <p>플레이어는 4방향 격자 위를 누비며 직접 전투하고 적을 요격합니다. 아이템과 석궁 탄약을 모으고, 이동 트레일로 닫힌 고리를 만들어 영역을 점령하며 마차가 스테이지 끝에 도달하도록 지켜야 합니다.</p>
+        <ul class="project-tags" aria-label="매그러스 스토리 핵심 시스템">
+          <li>4방향 격자 이동</li>
+          <li>성배마차 호위</li>
+          <li>직접 전투·적 요격</li>
+          <li>아이템·석궁</li>
+          <li>트레일 포위 점령</li>
+          <li>10개 스테이지</li>
         </ul>
-        <p class="project-strength">귀여운 종이공작풍 비주얼과 Paladog식 소환 액션 디펜스의 재미를 결합해, 자동 전투의 전략성과 직접 조작의 손맛을 함께 만드는 것이 목표입니다.</p>
+        <p class="project-strength">자동 전진하는 호위 목표의 압박과 플레이어가 마차 주변을 직접 누비는 조작을 결합합니다. 마차 곁을 지킬지, 아이템을 찾아 위험을 감수할지 매 순간 판단하는 것이 핵심입니다.</p>
 
         <div class="build-focus">
           <div>
-            <span>THIS WEEK · 경환</span>
-            <strong>Rail Crusade Defense 기반</strong>
+            <span>CURRENT BUILD · UNITY MOBILE</span>
+            <strong>STAGE 1–10 · DATA-DRIVEN</strong>
           </div>
           <ul>
-            <li><span>01</span> 레벨 1·2·3 디자인</li>
-            <li><span>02</span> 반장 개입 시스템</li>
-            <li><span>03</span> 레벨 디자인 도구 개발</li>
+            <li><span>01</span> 도토·전사·궁수·힐러 편성</li>
+            <li><span>02</span> 고블린·슬라임·보스 역할 확장</li>
+            <li><span>03</span> Game Designer 레벨 제작 도구</li>
           </ul>
         </div>
       </div>
