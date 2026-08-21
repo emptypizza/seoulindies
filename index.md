@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 서울인디게임즈
-description: 매주 토요일 오후 2시, 서울에서 각자의 인디게임을 만들고 플레이테스트하는 정기 오픈 스튜디오.
+description: 매주 토요일 오후 3시, 서울에서 각자의 인디게임을 만들고 플레이테스트하는 정기 오픈 스튜디오.
 ---
 
 <section class="home-hero" aria-labelledby="hero-title">
@@ -48,7 +48,7 @@ description: 매주 토요일 오후 2시, 서울에서 각자의 인디게임�
 <div class="signal-strip" aria-label="서울인디게임즈 핵심 활동">
   <div>
     <span>EVERY SATURDAY</span><i>✦</i>
-    <span>14:00 SEOUL</span><i>✦</i>
+    <span>15:00 SEOUL</span><i>✦</i>
     <span>MAKE</span><i>✦</i>
     <span>PLAYTEST</span><i>✦</i>
     <span>SHIP THE NEXT BUILD</span>
@@ -92,14 +92,14 @@ description: 매주 토요일 오후 2시, 서울에서 각자의 인디게임�
   <div class="home-container">
     <div class="section-heading">
       <p class="eyebrow">02 · THE SATURDAY LOOP</p>
-      <h2 id="loop-title">매주 토요일 오후 2시,<br><em>만들기 → 테스트 → 다음 빌드.</em></h2>
+      <h2 id="loop-title">매주 토요일 오후 3시,<br><em>만들기 → 테스트 → 다음 빌드.</em></h2>
       <p>길게 발표하기보다 오늘 할 일을 작게 선언하고, 집중해서 만들고, 실제 화면을 함께 봅니다.</p>
     </div>
 
     <ol class="loop-timeline">
       <li>
         <span class="loop-step">STEP 01</span>
-        <time datetime="14:00">14:00</time>
+        <time datetime="15:00">15:00</time>
         <div>
           <h3>체크인 · 오늘의 한 줄</h3>
           <p>지금 만드는 것과 오늘 끝낼 가장 작은 목표를 나눕니다.</p>
@@ -272,7 +272,7 @@ description: 매주 토요일 오후 2시, 서울에서 각자의 인디게임�
 <section class="final-cta" aria-labelledby="cta-title">
   <div class="final-cta__grid" aria-hidden="true"></div>
   <div class="home-container">
-    <p class="eyebrow eyebrow--glow">NEXT SATURDAY · 14:00</p>
+    <p class="eyebrow eyebrow--glow">NEXT SATURDAY · 15:00</p>
     <h2 id="cta-title">만들던 게임을<br><em>그대로 들고 오세요.</em></h2>
     <p>완성품보다 다음 버전을 기대합니다.<br>서울에서, 이번 토요일에 만나요.</p>
     <div class="final-cta__actions">
