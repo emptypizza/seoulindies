@@ -181,7 +181,7 @@ description: 서울 강남역에서 모이는 인디게임 바이브코딩 스�
       <div class="project-feature__visual project-feature__visual--magrous">
         <picture class="magrous-art">
           <source srcset="{{ site.baseurl }}/images/magrous-story.webp" type="image/webp">
-          <img src="{{ site.baseurl }}/images/magrous-story.jpg" alt="복셀 숲길에서 도토가 성배마차와 함께 빛나는 포털을 향하는 매그러스 스토리 키아트" width="768" height="1376" loading="lazy">
+          <img src="{{ site.baseurl }}/images/magrous-story.jpg" alt="복셀 숲길에서 성배마차가 빛나는 포털을 향하는 메그러스 스토리 외전 ~TT원정대~ 키아트" width="768" height="1376" loading="lazy">
         </picture>
         <span class="project-state">PLAYABLE BUILD · 10 STAGES IN DEVELOPMENT</span>
         <p>GRAIL WAGON ESCORT<br>PORTRAIT ACTION</p>
@@ -189,10 +189,10 @@ description: 서울 강남역에서 모이는 인디게임 바이브코딩 스�
 
       <div class="project-feature__copy">
         <p class="project-kicker">FEATURED MAKER PROJECT</p>
-        <h3>매그러스 스토리</h3>
-        <p class="project-tagline">자동 전진하는 성배마차를 주인공 도토와 용병들이 호위하는 <strong>모바일 세로형 액션</strong> 게임입니다.</p>
+        <h3>메그러스 스토리 외전 ~TT원정대~</h3>
+        <p class="project-tagline">자동 전진하는 성배마차를 용병들이 호위하는 <strong>모바일 세로형 액션</strong> 게임입니다.</p>
         <p>플레이어는 4방향 격자 위를 누비며 직접 전투하고 적을 요격합니다. 아이템과 석궁 탄약을 모으고, 이동 트레일로 닫힌 고리를 만들어 영역을 점령하며 마차가 스테이지 끝에 도달하도록 지켜야 합니다.</p>
-        <ul class="project-tags" aria-label="매그러스 스토리 핵심 시스템">
+        <ul class="project-tags" aria-label="메그러스 스토리 외전 ~TT원정대~ 핵심 시스템">
           <li>4방향 격자 이동</li>
           <li>성배마차 호위</li>
           <li>직접 전투·적 요격</li>
@@ -208,7 +208,7 @@ description: 서울 강남역에서 모이는 인디게임 바이브코딩 스�
             <strong>STAGE 1–10 · DATA-DRIVEN</strong>
           </div>
           <ul>
-            <li><span>01</span> 도토·전사·궁수·힐러 편성</li>
+            <li><span>01</span> 전사·궁수·힐러 편성</li>
             <li><span>02</span> 고블린·슬라임·보스 역할 확장</li>
             <li><span>03</span> Game Designer 레벨 제작 도구</li>
           </ul>
