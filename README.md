@@ -4,7 +4,7 @@
 목표 한 줄에서 시작해 에이전트와 만들고, 플레이되는 빌드로 확인합니다.
 
 - 공개 사이트: <https://emptypizza.github.io/seoulindies/>
-- Discord: <https://discord.gg/ekmHpGM54>
+- Discord: <https://discord.com/channels/1254322371511324692>
 - 카카오톡 오픈채팅: <https://open.kakao.com/o/pIxN9iFi>
 - 문의: <plusalpha.top@gmail.com>
 
@@ -25,8 +25,8 @@ ruby -rjekyll -e 'Jekyll::Commands::Build.process({"source" => ".", "destination
 ## 디자인
 
 - 일정과 핵심 문구는 이미지가 아닌 HTML로 제공해 접근성과 수정 가능성을 유지합니다.
-- 히어로 이미지는 제공된 네온 픽셀 포스터를 분위기 참고 자료로 삼아 이미지 생성 모델로 새로 제작했습니다.
-- 원본 생성 결과는 PNG였으며, 실제 사이트에는 WebP와 JPEG 대체 이미지를 사용합니다.
+- 헤더와 푸터 마크는 바이브개발스터디 인장 이미지를 원형으로 잘라 사용합니다.
+- 히어로 이미지는 그 인장의 남색·골드 저폴리 인물을 참고해 새로 생성했고, 왼쪽은 글자가 앉을 여백으로 두었습니다.
 - 상세 시장·레퍼런스 조사와 설계 근거는 [docs/market-and-design-research.md](docs/market-and-design-research.md)에 정리했습니다.
 
 ## 배포

@@ -6,8 +6,7 @@ description: 서울 강남역에서 모이는 인디게임 바이브코딩 스�
 
 <section class="home-hero" aria-labelledby="hero-title">
   <picture class="home-hero__art" aria-hidden="true">
-    <source srcset="{{ site.baseurl }}/images/seoul-indies-hero.webp" type="image/webp">
-    <img src="{{ site.baseurl }}/images/seoul-indies-hero.jpg" alt="" width="1672" height="941" fetchpriority="high">
+    <img src="{{ site.baseurl }}/images/seoul-indies-hero.jpg" alt="" width="1280" height="720" fetchpriority="high">
   </picture>
   <div class="home-hero__wash"></div>
   <div class="pixel-corner pixel-corner--top" aria-hidden="true"></div>
