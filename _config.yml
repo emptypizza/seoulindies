@@ -1,14 +1,12 @@
 # Site settings
 title: 서울인디게임즈
 description: >
-  매주 토요일 오후 3시, 서울 강남역에서 인디게임 개발자들이 각자 만들고,
-  서로 플레이하고, 다음 빌드까지 연결하는 정기 오픈 스튜디오입니다.
+  서울 강남역에서 모이는 인디게임 바이브코딩 스터디입니다.
+  목표 한 줄에서 시작해 에이전트와 만들고, 플레이되는 빌드로 확인합니다.
 baseurl: "/seoulindies"
 url: "https://emptypizza.github.io"
 email: plusalpha.top@gmail.com
 github_username: emptypizza
-meeting_day: "매주 토요일"
-meeting_time: "오후 3시"
 meeting_place: "서울 강남역 · 상세 장소는 신청자 안내"
 join_url: "https://discord.gg/j4ZsncEQ5"
 kakao_url: "https://open.kakao.com/o/pIxN9iFi"
@@ -16,7 +14,6 @@ social_image: "/images/seoul-indies-hero.jpg"
 
 # Build settings
 markdown: kramdown
-# KST로 작성한 당일 글이 UTC 빌드에서 미래 글로 제외되지 않도록 함
 future: true
 
 exclude:

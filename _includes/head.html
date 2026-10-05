@@ -3,7 +3,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  {% capture meta_title %}{% if page.layout == "home" %}{{ site.title }} · 매주 토요일 인디게임 오픈 스튜디오{% elsif page.title %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }}{% endif %}{% endcapture %}
+  {% capture meta_title %}{% if page.layout == "home" %}{{ site.title }} · 강남역 인디게임 바이브코딩 스터디{% elsif page.title %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }}{% endif %}{% endcapture %}
   {% capture meta_description %}{% if page.description %}{{ page.description }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
   {% assign meta_image = page.image | default: site.social_image %}
 

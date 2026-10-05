@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 서울인디게임즈
-description: 매주 토요일 오후 3시, 서울 강남역에서 각자의 인디게임을 만들고 플레이테스트하는 정기 오픈 스튜디오.
+description: 서울 강남역에서 모이는 인디게임 바이브코딩 스터디. 목표 한 줄에서 시작해 에이전트와 만들고, 플레이되는 빌드로 확인합니다.
 ---
 
 <section class="home-hero" aria-labelledby="hero-title">
@@ -15,22 +15,22 @@ description: 매주 토요일 오후 3시, 서울 강남역에서 각자의 인�
 
   <div class="home-container home-hero__inner">
     <div class="hero-copy">
-      <p class="eyebrow eyebrow--glow"><span></span> GANGNAM STATION · SATURDAY BUILD CLUB</p>
-      <h1 id="hero-title">혼자 만들던 게임,<br><em>토요일엔 함께.</em></h1>
-      <p class="hero-lead">서울 강남역에서 인디게임 개발자들이 각자 만들고, 서로 플레이하고, 다음 빌드까지 연결하는 정기 오픈 스튜디오입니다.</p>
+      <p class="eyebrow eyebrow--glow"><span></span> GANGNAM · AGENTIC INDIE STUDY</p>
+      <h1 id="hero-title">인디게임을,<br><em>에이전트와 같이.</em></h1>
+      <p class="hero-lead">서울 강남역에서 모이는 인디게임 바이브코딩 스터디입니다. 목표 한 줄에서 시작해 에이전트와 만들고, 플레이되는 빌드로 확인합니다.</p>
 
       <div class="hero-actions">
         <a class="button button--primary" href="{{ site.join_url }}" target="_blank" rel="noopener noreferrer">
           Discord 참여하기 <span aria-hidden="true">↗</span>
         </a>
         <a class="button button--kakao" href="{{ site.kakao_url }}" target="_blank" rel="noopener noreferrer">카카오톡 오픈채팅 <span aria-hidden="true">↗</span></a>
-        <a class="button button--ghost" href="#meetup">모임 방식 보기 <span aria-hidden="true">↓</span></a>
+        <a class="button button--ghost" href="#ai-lab">스터디 방식 보기 <span aria-hidden="true">↓</span></a>
       </div>
 
-      <dl class="hero-facts" aria-label="정기 모임 정보">
+      <dl class="hero-facts" aria-label="스터디 정보">
         <div>
-          <dt>WHEN</dt>
-          <dd>{{ site.meeting_day }} <strong>{{ site.meeting_time }}</strong></dd>
+          <dt>FORMAT</dt>
+          <dd>바이브코딩 · <strong>에이전틱 코딩</strong></dd>
         </div>
         <div>
           <dt>WHERE</dt>
@@ -38,7 +38,7 @@ description: 매주 토요일 오후 3시, 서울 강남역에서 각자의 인�
         </div>
         <div>
           <dt>BRING</dt>
-          <dd>노트북 · 만들던 것 · 열린 마음</dd>
+          <dd>노트북 · 에이전트 IDE · 만들고 싶은 게임</dd>
         </div>
       </dl>
     </div>
@@ -47,11 +47,11 @@ description: 매주 토요일 오후 3시, 서울 강남역에서 각자의 인�
 
 <div class="signal-strip" aria-label="서울인디게임즈 핵심 활동">
   <div>
-    <span>EVERY SATURDAY</span><i>✦</i>
-    <span>15:00 GANGNAM STATION</span><i>✦</i>
-    <span>MAKE</span><i>✦</i>
-    <span>PLAYTEST</span><i>✦</i>
-    <span>SHIP THE NEXT BUILD</span>
+    <span>VIBE CODING</span><i>✦</i>
+    <span>AGENTIC</span><i>✦</i>
+    <span>INDIE GAMES</span><i>✦</i>
+    <span>GANGNAM</span><i>✦</i>
+    <span>PLAY THE BUILD</span>
   </div>
 </div>
 
@@ -59,80 +59,106 @@ description: 매주 토요일 오후 3시, 서울 강남역에서 각자의 인�
   <div class="home-container">
     <div class="section-heading section-heading--split">
       <div>
-        <p class="eyebrow">01 · OUR INDIE SPIRIT</p>
-        <h2 id="spirit-title">완성보다 먼저 필요한 건<br><em>계속 만드는 리듬</em>입니다.</h2>
+        <p class="eyebrow">01 · STUDY SPIRIT</p>
+        <h2 id="spirit-title">흐름으로 시작하고,<br><em>빌드로 끝냅니다.</em></h2>
       </div>
-      <p>서울인디게임즈는 강연을 듣고 명함을 돌리는 자리가 아닙니다. 작은 프로토타입도 테이블 위에 올리고, 직접 눌러 보고, 다음 한 걸음을 정하는 제작자들의 주간 베이스캠프입니다.</p>
+      <p>서울인디게임즈는 강연을 듣고 명함을 돌리는 자리가 아닙니다. 목표 한 줄을 적고, 에이전트와 구현하고, 플레이되는 화면으로 확인하는 인디게임 스터디입니다.</p>
     </div>
 
     <div class="spirit-grid">
       <article class="spirit-card spirit-card--cyan">
         <span class="card-index">01</span>
         <div class="pixel-icon" aria-hidden="true">▦</div>
-        <h3>완성 전이어도</h3>
-        <p>아이디어 한 줄, 망가진 빌드, 회색 박스도 괜찮습니다. 보여 줄 수 있는 가장 작은 조각부터 시작합니다.</p>
+        <h3>한 줄로 시작</h3>
+        <p>거대한 기획서보다 오늘의 실험이 먼저입니다. 이번 자리에 끝낼 가장 작은 목표 한 줄이면 충분합니다.</p>
       </article>
       <article class="spirit-card spirit-card--violet">
         <span class="card-index">02</span>
         <div class="pixel-icon" aria-hidden="true">◆</div>
-        <h3>혼자 와도</h3>
-        <p>팀을 억지로 만들지 않습니다. 각자의 프로젝트에 집중하고, 필요할 때 서로의 눈과 손을 빌립니다.</p>
+        <h3>에이전트가 같이</h3>
+        <p>에이전트 IDE를 켜고, 시킨 일과 나온 결과를 같이 봅니다. 흐름을 타는 것과 결과를 검증하는 것을 둘 다 연습합니다.</p>
       </article>
       <article class="spirit-card spirit-card--pink">
         <span class="card-index">03</span>
         <div class="pixel-icon" aria-hidden="true">◫</div>
-        <h3>직접 플레이하기</h3>
-        <p>말보다 빌드를 먼저 만집니다. 요청한 범위에서 구체적으로 피드백하고, 다음 버전을 함께 기다립니다.</p>
+        <h3>빌드로 확인</h3>
+        <p>설명으로 끝내지 않습니다. 움직여 보는 빌드가 나와야 공부가 끝납니다. 보여 주고 싶은 범위만 열어 같이 플레이합니다.</p>
       </article>
     </div>
   </div>
 </section>
 
-<section class="section section--loop" id="meetup" aria-labelledby="loop-title">
+<section class="section section--lab" id="ai-lab" aria-labelledby="lab-title">
   <div class="home-container">
     <div class="section-heading">
-      <p class="eyebrow">02 · THE SATURDAY LOOP</p>
-      <h2 id="loop-title">매주 토요일 오후 3시,<br><em>만들기 → 테스트 → 다음 빌드.</em></h2>
-      <p>길게 발표하기보다 오늘 할 일을 작게 선언하고, 집중해서 만들고, 실제 화면을 함께 봅니다.</p>
+      <p class="eyebrow">02 · VIBE CODING STUDY</p>
+      <h2 id="lab-title">목표 한 줄에서<br><em>플레이되는 빌드까지.</em></h2>
+      <p>정해진 요일과 시각은 없습니다. 강남역에 모이면 오늘 만들 것을 정하고, 에이전트와 구현한 뒤 움직여 보는 빌드로 확인합니다.</p>
     </div>
 
-    <ol class="loop-timeline">
-      <li>
-        <span class="loop-step">STEP 01</span>
-        <time datetime="15:00">15:00</time>
-        <div>
-          <h3>체크인 · 오늘의 한 줄</h3>
-          <p>지금 만드는 것과 오늘 끝낼 가장 작은 목표를 나눕니다.</p>
-        </div>
-      </li>
-      <li>
-        <span class="loop-step">STEP 02</span>
-        <span class="loop-time">FOCUS</span>
-        <div>
-          <h3>집중 제작</h3>
-          <p>코드, 아트, 기획, 사운드—각자의 방식으로 조용히 진전시킵니다.</p>
-        </div>
-      </li>
-      <li>
-        <span class="loop-step">STEP 03</span>
-        <span class="loop-time">PLAY</span>
-        <div>
-          <h3>빌드 플레이 · 피드백</h3>
-          <p>보여 주고 싶은 범위만 열어 서로 플레이합니다. 감상이 아니라 다음 수정에 쓸 말을 남깁니다.</p>
-        </div>
-      </li>
-      <li>
-        <span class="loop-step">STEP 04</span>
-        <span class="loop-time">NEXT</span>
-        <div>
-          <h3>다음 빌드 약속</h3>
-          <p>오늘 만든 것과 다음 주까지의 한 걸음을 기록합니다. 완성보다 연속성을 챙깁니다.</p>
-        </div>
-      </li>
-    </ol>
+    <div class="lab-terminal" aria-hidden="true">
+      <span class="lab-terminal__prompt">study</span>
+      <code>goal "플레이되는 한 판" → agent → build</code>
+    </div>
+
+    <div class="lab-layout">
+      <ol class="study-board">
+        <li>
+          <span class="study-label">GOAL</span>
+          <div>
+            <h3>오늘 만들 한 줄</h3>
+            <p>이번 자리에 끝낼 가장 작은 목표를 적습니다. 게임 한 장면, 조작 하나, 깨진 빌드의 다음 수정도 목표가 됩니다.</p>
+          </div>
+        </li>
+        <li>
+          <span class="study-label">AGENT</span>
+          <div>
+            <h3>에이전트와 구현</h3>
+            <p>에이전트 IDE에 일을 맡기고, 나온 코드와 씬을 그대로 믿지 않고 같이 읽습니다. 바이브로 시작해도 결과는 사람이 확인합니다.</p>
+          </div>
+        </li>
+        <li>
+          <span class="study-label">PLAY</span>
+          <div>
+            <h3>움직여 보는 빌드</h3>
+            <p>설명 슬라이드 대신 실행되는 화면을 엽니다. 보여 주고 싶은 범위만 플레이하고, 다음 수정에 쓸 말을 남깁니다.</p>
+          </div>
+        </li>
+        <li>
+          <span class="study-label">TRACE</span>
+          <div>
+            <h3>남길 실험</h3>
+            <p>어떤 프롬프트가 통했는지, 어디서 막혔는지, 다음에 시도할 한 가지를 적습니다. 완성이 아니라 다음 실험이 기록입니다.</p>
+          </div>
+        </li>
+      </ol>
+
+      <div class="lab-topics" aria-label="스터디에서 다루는 것">
+        <article class="lab-topic">
+          <span>VIBE</span>
+          <h3>흐름으로 시작</h3>
+          <p>목표를 먼저 두고 만들면서 길을 찾습니다. 스펙을 전부 쓴 뒤에야 움직이는 자리를 지향하지 않습니다.</p>
+        </article>
+        <article class="lab-topic">
+          <span>AGENTIC</span>
+          <h3>시킨 일과 결과</h3>
+          <p>에이전트에게 맡긴 범위와 실제로 나온 결과를 나란히 봅니다. 빠른 생성보다 검증이 공부입니다.</p>
+        </article>
+        <article class="lab-topic">
+          <span>INDIE</span>
+          <h3>플레이가 과제</h3>
+          <p>웹 페이지나 메모로 끝내지 않습니다. 인디게임의 조작, 장면, 루프가 움직여야 합니다.</p>
+        </article>
+        <article class="lab-topic">
+          <span>GANGNAM</span>
+          <h3>화면을 같이</h3>
+          <p>각자 프로젝트를 가져옵니다. 강남역에 모이면 옆 사람의 빌드를 직접 눌러 보고, 막힌 워크플로를 나눕니다.</p>
+        </article>
+      </div>
+    </div>
 
     <div class="meetup-note">
-      <p><strong>처음이라면?</strong> 작업 중인 프로젝트가 없어도 괜찮습니다. 작은 실험이나 배우고 싶은 도구를 가져오세요.</p>
+      <p><strong>처음이라면?</strong> 진행 중인 게임이 없어도 괜찮습니다. 작은 실험과 에이전트 IDE만 가져오세요. 회차 일정은 아래에서 확인합니다.</p>
       <div class="meetup-note__links">
         <a href="{{ site.join_url }}" target="_blank" rel="noopener noreferrer">Discord ↗</a>
         <a class="kakao-link" href="{{ site.kakao_url }}" target="_blank" rel="noopener noreferrer">카카오톡 오픈채팅 ↗</a>
@@ -209,17 +235,17 @@ description: 매주 토요일 오후 3시, 서울 강남역에서 각자의 인�
 <section class="section section--people" aria-labelledby="people-title">
   <div class="home-container people-layout">
     <div class="section-heading">
-      <p class="eyebrow">04 · WHO'S AT THE TABLE?</p>
-      <h2 id="people-title">엔진도, 경력도 달라도<br><em>만드는 사람이라면.</em></h2>
-      <p>인디게임 개발자, 사이드프로젝트 팀, 지망생, 그리고 실제 빌드를 기꺼이 플레이해 줄 동료를 환영합니다.</p>
+      <p class="eyebrow">04 · WHO'S IN THE STUDY?</p>
+      <h2 id="people-title">엔진도, 경력도 달라도<br><em>에이전트와 만든다면.</em></h2>
+      <p>인디게임을 에이전트와 같이 실험하는 개발자, 워크플로를 바꾸는 제작자, 작은 프로토타입부터 시작하는 사람을 환영합니다.</p>
       <a class="text-link" href="mailto:{{ site.email }}">참여 전 궁금한 점 묻기 →</a>
     </div>
 
     <div class="people-list">
-      <article><span>01</span><div><h3>혼자 만드는 개발자</h3><p>막힌 부분을 말로 정리하고 다음 커밋까지.</p></div></article>
-      <article><span>02</span><div><h3>사이드프로젝트 팀</h3><p>주간 리듬을 만들고 새 빌드를 빠르게 검증합니다.</p></div></article>
-      <article><span>03</span><div><h3>학생 · 지망생</h3><p>작은 프로토타입부터 실제 만드는 습관을 시작합니다.</p></div></article>
-      <article><span>04</span><div><h3>아트 · 사운드 · 기획</h3><p>코드만이 게임은 아닙니다. 각자의 전문성을 연결합니다.</p></div></article>
+      <article><span>01</span><div><h3>에이전트로 실험하는 개발자</h3><p>시킨 일과 나온 빌드를 같이 읽고 다음 실험까지.</p></div></article>
+      <article><span>02</span><div><h3>워크플로를 바꾸는 제작자</h3><p>이미 만들던 게임에 에이전틱 코딩을 붙여 검증합니다.</p></div></article>
+      <article><span>03</span><div><h3>기획 · 아트도 같이</h3><p>코드만의 자리가 아닙니다. 장면과 연출도 에이전트와 시도합니다.</p></div></article>
+      <article><span>04</span><div><h3>작은 프로토타입부터</h3><p>진행 중인 게임이 없어도, 한 줄 목표와 IDE면 시작할 수 있습니다.</p></div></article>
     </div>
   </div>
 </section>
@@ -265,6 +291,7 @@ description: 매주 토요일 오후 3시, 서울 강남역에서 각자의 인�
       <li><span>02</span> 피드백은 요청한 범위에서 구체적으로 나눕니다.</li>
       <li><span>03</span> 촬영·공개·빌드 공유는 먼저 동의를 구합니다.</li>
       <li><span>04</span> 차별, 괴롭힘, 무단 영업은 함께할 수 없습니다.</li>
+      <li><span>05</span> 에이전트가 만든 코드와 에셋도 만든 사람의 작업입니다. 공개와 공유는 동의가 먼저입니다.</li>
     </ul>
   </div>
 </section>
@@ -272,9 +299,9 @@ description: 매주 토요일 오후 3시, 서울 강남역에서 각자의 인�
 <section class="final-cta" aria-labelledby="cta-title">
   <div class="final-cta__grid" aria-hidden="true"></div>
   <div class="home-container">
-    <p class="eyebrow eyebrow--glow">NEXT SATURDAY · 15:00</p>
-    <h2 id="cta-title">만들던 게임을<br><em>그대로 들고 오세요.</em></h2>
-    <p>완성품보다 다음 버전을 기대합니다.<br>서울 강남역에서, 이번 토요일에 만나요.</p>
+    <p class="eyebrow eyebrow--glow">NEXT SESSION · DISCORD</p>
+    <h2 id="cta-title">다음 스터디는<br><em>공지로 만납니다.</em></h2>
+    <p>정해진 요일과 시각은 없습니다.<br>강남역 회차는 Discord와 카카오톡에서 안내합니다.</p>
     <div class="final-cta__actions">
       <a class="button button--primary button--large" href="{{ site.join_url }}" target="_blank" rel="noopener noreferrer">
         Discord 참여하기 <span aria-hidden="true">↗</span>
