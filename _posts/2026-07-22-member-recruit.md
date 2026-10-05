@@ -22,7 +22,7 @@ image: "/images/seoul-indies-hero.jpg"
 | 장소 | 서울 강남역 · 상세 장소는 신청자에게 회차별로 안내 |
 | 일정 | 정해진 요일·시각 없음. 회차 공지는 Discord · 카카오톡 |
 | 대상 | 에이전트로 게임을 실험하는 사람 · 워크플로를 바꾸는 제작자 · 기획/아트 · 프로토타입부터 시작하는 사람 |
-| 참여 | [Discord](https://discord.gg/j4ZsncEQ5) · [카카오톡 오픈채팅](https://open.kakao.com/o/pIxN9iFi) |
+| 참여 | [Discord](https://discord.gg/ekmHpGM54) · [카카오톡 오픈채팅](https://open.kakao.com/o/pIxN9iFi) |
 
 ---
 
@@ -68,7 +68,7 @@ image: "/images/seoul-indies-hero.jpg"
 
 ## 참여 방법
 
-- 회차별 장소와 참가 안내: [Discord](https://discord.gg/j4ZsncEQ5) · [카카오톡 오픈채팅](https://open.kakao.com/o/pIxN9iFi)
+- 회차별 장소와 참가 안내: [Discord](https://discord.gg/ekmHpGM54) · [카카오톡 오픈채팅](https://open.kakao.com/o/pIxN9iFi)
 - 문의: [plusalpha.top@gmail.com](mailto:plusalpha.top@gmail.com)
 
 완성된 게임보다 **플레이되는 다음 실험**을 기다립니다.

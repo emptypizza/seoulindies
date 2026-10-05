@@ -4,7 +4,7 @@
 목표 한 줄에서 시작해 에이전트와 만들고, 플레이되는 빌드로 확인합니다.
 
 - 공개 사이트: <https://emptypizza.github.io/seoulindies/>
-- Discord: <https://discord.gg/j4ZsncEQ5>
+- Discord: <https://discord.gg/ekmHpGM54>
 - 카카오톡 오픈채팅: <https://open.kakao.com/o/pIxN9iFi>
 - 문의: <plusalpha.top@gmail.com>
 
