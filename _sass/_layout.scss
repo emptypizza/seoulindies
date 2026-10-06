@@ -250,6 +250,11 @@
   letter-spacing: 0.08em;
 }
 
+.post-status--next {
+  border-color: rgba(214, 168, 62, 0.55);
+  color: #e6c36a;
+}
+
 .post-title {
   max-width: 780px;
   font-size: clamp(38px, 7vw, 62px);

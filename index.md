@@ -264,7 +264,7 @@ description: 서울 강남역에서 모이는 인디게임 바이브코딩 스�
       <article class="post-card">
         <a href="{{ post.url | prepend: site.baseurl }}" aria-label="{{ post.title }}">
           <div class="post-card__cover post-card__cover--{{ forloop.index }}">
-            <span>{% if post.event_status == "ended" %}PAST EVENT{% else %}DEVLOG {{ forloop.index | prepend: '0' }}{% endif %}</span>
+            <span>{% if post.event_status == "ended" %}PAST EVENT{% elsif post.event_status == "upcoming" %}NEXT EVENT{% else %}DEVLOG {{ forloop.index | prepend: '0' }}{% endif %}</span>
             <i aria-hidden="true"></i>
           </div>
           <div class="post-card__body">
