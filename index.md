@@ -279,22 +279,6 @@ description: 서울 강남역에서 모이는 인디게임 바이브코딩 스�
   </div>
 </section>
 
-<section class="section section--principles" aria-labelledby="principles-title">
-  <div class="home-container principles-layout">
-    <div>
-      <p class="eyebrow">COMMUNITY PRINCIPLES</p>
-      <h2 id="principles-title">서로의 게임과 사람을<br>같이 존중합니다.</h2>
-    </div>
-    <ul>
-      <li><span>01</span> 작업물과 IP는 각 창작자에게 있습니다.</li>
-      <li><span>02</span> 피드백은 요청한 범위에서 구체적으로 나눕니다.</li>
-      <li><span>03</span> 촬영·공개·빌드 공유는 먼저 동의를 구합니다.</li>
-      <li><span>04</span> 차별, 괴롭힘, 무단 영업은 함께할 수 없습니다.</li>
-      <li><span>05</span> 에이전트가 만든 코드와 에셋도 만든 사람의 작업입니다. 공개와 공유는 동의가 먼저입니다.</li>
-    </ul>
-  </div>
-</section>
-
 <section class="final-cta" aria-labelledby="cta-title">
   <div class="final-cta__grid" aria-hidden="true"></div>
   <div class="home-container">
