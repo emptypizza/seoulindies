@@ -2,6 +2,8 @@
 layout: post
 title: "「AI Slop인 바이브 코딩이 아닙니다. 에이전틱 코딩이란 무엇입니까?」"
 description: "2026년 10월 25일 15시. AI 슬롭에 맡기지 않고, 창작자가 게임의 주권과 제어를 지키는 plan vs goal 스터디잼."
+date: 2026-10-24
+permalink: /2026/10/10/plan-vs-goal-hackathon.html
 event_status: upcoming
 image: "/images/banner-dark.png"
 ---
