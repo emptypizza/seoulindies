@@ -9,6 +9,8 @@ description: 바이브 코딩 스터디에서 읽을 글과, 아직 없는 항�
 
 ## 공통
 
+- **발행됨 · 읽을거리** · [바이브 코딩을 처음 시작할 때 중요한 다섯 가지]({{ site.baseurl }}/2026/10/27/five-things-starting-vibe.html)
+  - 뼈대는 비교하고, 검증은 다른 세션에서, 원하는 결과는 먼저 적는다.
 - **발행됨 · 읽을거리** · [바이브 코딩 다음에 남는 것]({{ site.baseurl }}/2026/10/08/after-vibe-coding.html)
   - 바이브 다음에 남는 문제. 의도, 하네스, 지휘.
 - **발행됨 · 읽을거리** · [AI는 재미를 찾아 주지 않는다]({{ site.baseurl }}/2026/10/09/ai-does-not-find-fun.html)
