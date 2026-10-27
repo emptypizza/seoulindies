@@ -4,6 +4,8 @@ title: "AI 코딩 모델과 워크플로"
 description: "Claude, GPT, Gemini, Grok을 써 본 뒤, 설계를 이슈로 넘기는 순서."
 ---
 
+![네 모델과 설계, 이슈, 구현 순서]({{ site.baseurl }}/images/study/model-workflow.svg){: .hero-image .hero-image--wide }
+
 코드의 대부분은 에이전트에게 맡길 수 있습니다.
 사람이 남는 일은 두 가지입니다.
 에이전트가 일할 환경을 고정하는 것, 그리고 나온 코드를 가끔 읽는 것.

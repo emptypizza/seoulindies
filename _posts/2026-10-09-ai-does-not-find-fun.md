@@ -4,6 +4,8 @@ title: "AI는 재미를 찾아 주지 않는다"
 description: "구현 비용이 줄어도, 무엇을 추구할지는 사람이 정합니다."
 ---
 
+![같은 요청이 슬롭, 디렉팅, 새 시스템으로 갈린다]({{ site.baseurl }}/images/study/fun-not-found.svg){: .hero-image .hero-image--wide }
+
 AI는 게임을 만들어 줄 수 있습니다.
 뭐가 재밌는지는 정하지 못합니다.
 구현 비용은 0에 가깝다고 보는 편이 낫습니다.

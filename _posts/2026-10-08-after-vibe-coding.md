@@ -4,6 +4,8 @@ title: "바이브 코딩 다음에 남는 것"
 description: "딸깍 다음에 남는 문제. 의도, 하네스, 그리고 지휘와 하청."
 ---
 
+![의도, 하네스, 지휘 세 단계]({{ site.baseurl }}/images/study/after-vibe.svg){: .hero-image .hero-image--wide }
+
 처음 에이전트로 만들면 신기합니다.
 화면이 빨리 나오고, 손이 춤을 춥니다.
 쓰다 보면 이름 붙은 문제들이 보입니다.

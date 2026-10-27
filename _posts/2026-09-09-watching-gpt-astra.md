@@ -4,6 +4,8 @@ title: "GPT Astra를 보고 남은 것"
 description: "줄어든 것은 만드는 고통이고, 창작의 고통은 그대로입니다."
 ---
 
+![생산의 고통은 줄고 창작의 고통은 남는다]({{ site.baseurl }}/images/study/astra-pain.svg){: .hero-image .hero-image--wide }
+
 에이전트 때문에 만드는 비용이 줄었습니다.
 개발을 오래 한 사람도, 손에서 놓았던 창작을 다시 붙잡습니다.
 

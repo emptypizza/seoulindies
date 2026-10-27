@@ -4,6 +4,8 @@ title: "목적 하나에 봇 하나"
 description: "비서 봇 하나에 몰아넣지 않고, 반복되는 목적마다 봇을 나눈 기록."
 ---
 
+![사람은 목적별 봇에게 직접 말한다]({{ site.baseurl }}/images/study/one-bot.svg){: .hero-image .hero-image--wide }
+
 봇은 목적이 생길 때 하나 만듭니다.
 메일, 일정, 잡무, 개발, 블로그를 한 창에 넣지 않습니다.
 사람은 고르고, 승인하고, 품질을 판단합니다.
