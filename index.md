@@ -256,7 +256,7 @@ description: 서울 강남역에서 모이는 인디게임 바이브코딩 스�
         <p class="eyebrow">05 · DEVLOG &amp; ARCHIVE</p>
         <h2 id="news-title">지난 기록</h2>
       </div>
-      <p>실험과 실패도 다음 빌드의 재료로 남깁니다.</p>
+      <p>실험과 실패도 다음 빌드의 재료로 남깁니다. <a href="{{ site.baseurl }}/study/">세미나에 필요한 글</a></p>
     </div>
 
     <div class="post-grid">
