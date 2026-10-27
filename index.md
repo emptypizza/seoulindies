@@ -268,7 +268,8 @@ description: 서울 강남역에서 모이는 인디게임 바이브코딩 스�
             <i aria-hidden="true"></i>
           </div>
           <div class="post-card__body">
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y.%m.%d" }}</time>
+            {% assign card_date = post.event_date | default: post.date %}
+            <time datetime="{{ card_date | date_to_xmlschema }}">{{ card_date | date: "%Y.%m.%d" }}</time>
             <h3>{{ post.title }}</h3>
             <span class="post-card__arrow" aria-hidden="true">↗</span>
           </div>
